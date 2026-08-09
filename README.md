@@ -1,4 +1,4 @@
-# 📡 Radar Meteorológico Preditivo & Motor de Telemetria SST (NR-35)
+#  Radar Meteorológico Preditivo & Motor de Telemetria SST (NR-35)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,7 +14,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 🚀 Principais Funcionalidades (Motor V4.2)
+##  Principais Funcionalidades (Motor V4.2)
 
 * **Varredura Preditiva 24h:** O algoritmo rastreia a matriz meteorológica em 40 blocos de tempo futuros, isolando o pior cenário nas próximas 24 horas.
 * **Escudo Anti-Spam Resiliente:** Sistema de gestão de memória dinâmica (`flow context`) que impede alertas duplicados e fadiga de alarmes. O sistema fica em silêncio absoluto até que a janela crítica se aproxime.
@@ -25,7 +25,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 🛠️ Arquitetura e Tecnologias
+##  Arquitetura e Tecnologias
 
 1. **Fonte de Dados (TI):** API REST do *OpenWeatherMap* (Modelo *5 day / 3 hour forecast*).
 2. **Processamento (Middleware):** Node-RED com regras avançadas em JavaScript (ES6+).
@@ -34,7 +34,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## ⚙️ Como Importar e Usar
+##  Como Importar e Usar
 
 1. Tenha o [Node-RED](https://nodered.org/) instalado em seu servidor local, Raspberry Pi ou Docker.
 2. Certifique-se de ter instalado as bibliotecas:
@@ -47,13 +47,13 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 <img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/3b82e6f4-fbb6-484e-ab7d-8a518ced6510" />
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Michel Coutinho** Tecnólogo em Automação Industrial | Eletromecânica  
 Focado na convergência IT/OT e Automação Predial (BMS).
