@@ -1,4 +1,4 @@
-# 📡 Radar Meteorológico Preditivo & Motor de Telemetria SST (NR-35)
+# Radar Meteorológico Preditivo & Motor de Telemetria SST (NR-35)
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,7 +11,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 🚀 Principais Funcionalidades (Motor V4.2)
+## Principais Funcionalidades (Motor V4.2)
 
 * **Varredura Preditiva 24h:** O algoritmo rastreia a matriz meteorológica em 40 blocos de tempo futuros, isolando o pior cenário nas próximas 24 horas.
 * **Escudo Anti-Spam Resiliente:** Sistema de gestão de memória dinâmica (`flow context`) que impede alertas duplicados e fadiga de alarmes. O sistema fica em silêncio absoluto até que a janela crítica se aproxime.
@@ -31,7 +31,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## ⚙️ Como Importar e Usar
+##  Como Importar e Usar
 
 1. Tenha o [Node-RED](https://nodered.org/) instalado em seu servidor local, Raspberry Pi ou Docker.
 2. Certifique-se de ter instalado as bibliotecas:
@@ -44,7 +44,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 📸 Demonstração
+##  Demonstração
 
 *(Adicione aqui um print screen do e-mail HTML recebido ou da tela do Node-RED rodando o fluxo)*
 
