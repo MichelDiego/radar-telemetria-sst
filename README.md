@@ -22,7 +22,7 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ---
 
-## 🛠️ Arquitetura e Tecnologias
+##  Arquitetura e Tecnologias
 
 1. **Fonte de Dados (TI):** API REST do *OpenWeatherMap* (Modelo *5 day / 3 hour forecast*).
 2. **Processamento (Middleware):** Node-RED com regras avançadas em JavaScript (ES6+).
@@ -46,7 +46,8 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ##  Demonstração
 
-*(Adicione aqui um print screen do e-mail HTML recebido ou da tela do Node-RED rodando o fluxo)*
+<img width="1365" height="635" alt="image" src="https://github.com/user-attachments/assets/3b82e6f4-fbb6-484e-ab7d-8a518ced6510" />
+
 
 ---
 
