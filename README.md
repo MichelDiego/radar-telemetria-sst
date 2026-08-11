@@ -55,5 +55,5 @@ O objetivo principal é antecipar riscos de ventos fortes, chuvas extremas e rai
 
 ##  Autor
 
-**Michel Coutinho** Tecnólogo em Automação Industrial | Eletromecânica  
+**Michel Coutinho** Tecnólogo em Automação Industrial 
 Focado na convergência IT/OT e Automação Predial (BMS).
